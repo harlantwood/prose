@@ -4,7 +4,7 @@ pygments: true
 permalink: none
 baseurl: ""
 oauth_client_id: 1f71dda0a69bd8cdcecf
-gatekeeper_url: http://prose-gatekeeper.herokuapp.com
+gatekeeper_url: http://gate.openyourproject.org
 exclude:
 - .gitignore
 - README.md
